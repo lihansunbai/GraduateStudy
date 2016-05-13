@@ -1,0 +1,9 @@
+create table map_user(
+	username varchar(32) unique not null,
+	realname varchar(32),
+	password varchar(64)
+);
+
+insert into map_user(username,password,realname)
+values
+	('1',md5('123456'),'123')

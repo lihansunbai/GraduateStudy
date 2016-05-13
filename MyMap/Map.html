@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<!--
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+-->
+<html>
+    <head>
+        <title>MyMap</title>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width">
+        <link rel="stylesheet" href="support/jquery-ui-1.11.2.custom/jquery-ui.min.css">
+        <link rel="stylesheet" href="css/zhiding.css">
+        <script src="support/jquery-ui-1.11.2.custom/external/jquery/jquery.js"></script>
+        <script src="support/jquery-ui-1.11.2.custom/jquery-ui.min.js"></script>
+
+        <script src="lib/uuid.js"></script>
+        <script src="lib/LoginDialog.js"></script>
+        <script src="lib/RegistDialog.js"></script>
+        <script>
+            function Login() {
+                var dlg = new LoginDialog();
+                dlg.show();
+            }
+            ;
+
+            function Regist() {
+                var dlg = new RegistDialog();
+                dlg.show();
+            }
+            ;
+        </script>
+
+    </head>
+    <body>
+        <div id="topselection">
+            <ul id="selections">
+                <li><a onclick="Login()">登录</a></li>
+                <li><a onclick="Regist()">注册</a></li>
+            </ul>
+        </div>
+    </body>
+</html>
