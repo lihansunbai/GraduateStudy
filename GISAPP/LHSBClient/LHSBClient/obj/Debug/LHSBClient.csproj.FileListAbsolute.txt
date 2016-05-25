@@ -1,0 +1,13 @@
+E:\CODE\GISAPP\LHSBClient\LHSBClient\bin\Debug\LHSBClient.exe.config
+E:\CODE\GISAPP\LHSBClient\LHSBClient\obj\Debug\LHSBClient.csprojResolveAssemblyReference.cache
+E:\CODE\GISAPP\LHSBClient\LHSBClient\obj\Debug\LHSBClient.Form1.resources
+E:\CODE\GISAPP\LHSBClient\LHSBClient\obj\Debug\LHSBClient.Properties.Resources.resources
+E:\CODE\GISAPP\LHSBClient\LHSBClient\obj\Debug\LHSBClient.csproj.GenerateResource.Cache
+E:\CODE\GISAPP\LHSBClient\LHSBClient\bin\Debug\LHSBClient.exe
+E:\CODE\GISAPP\LHSBClient\LHSBClient\bin\Debug\LHSBClient.pdb
+E:\CODE\GISAPP\LHSBClient\LHSBClient\bin\Debug\LHSBCls.dll
+E:\CODE\GISAPP\LHSBClient\LHSBClient\bin\Debug\LHSBCtrLib.dll
+E:\CODE\GISAPP\LHSBClient\LHSBClient\bin\Debug\LHSBCls.pdb
+E:\CODE\GISAPP\LHSBClient\LHSBClient\bin\Debug\LHSBCtrLib.pdb
+E:\CODE\GISAPP\LHSBClient\LHSBClient\obj\Debug\LHSBClient.exe
+E:\CODE\GISAPP\LHSBClient\LHSBClient\obj\Debug\LHSBClient.pdb

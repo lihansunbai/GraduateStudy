@@ -1,0 +1,16 @@
+c:\users\adminroot\documents\visual studio 2010\Projects\LHSB\LHSB\obj\x86\Debug\LHSB.csprojResolveAssemblyReference.cache
+c:\users\adminroot\documents\visual studio 2010\Projects\LHSB\LHSB\obj\x86\Debug\LHSB.MainForm.resources
+c:\users\adminroot\documents\visual studio 2010\Projects\LHSB\LHSB\obj\x86\Debug\LHSB.Properties.Resources.resources
+c:\users\adminroot\documents\visual studio 2010\Projects\LHSB\LHSB\obj\x86\Debug\LHSB.csproj.GenerateResource.Cache
+c:\users\adminroot\documents\visual studio 2010\Projects\LHSB\LHSB\bin\Debug\LHSB.exe
+c:\users\adminroot\documents\visual studio 2010\Projects\LHSB\LHSB\bin\Debug\LHSB.pdb
+c:\users\adminroot\documents\visual studio 2010\Projects\LHSB\LHSB\obj\x86\Debug\LHSB.exe
+c:\users\adminroot\documents\visual studio 2010\Projects\LHSB\LHSB\obj\x86\Debug\LHSB.pdb
+E:\CODE\GISAPP\LHSB\LHSB\obj\x86\Debug\LHSB.exe
+E:\CODE\GISAPP\LHSB\LHSB\obj\x86\Debug\LHSB.pdb
+E:\CODE\GISAPP\LHSB\LHSB\bin\Debug\LHSB.exe
+E:\CODE\GISAPP\LHSB\LHSB\bin\Debug\LHSB.pdb
+E:\CODE\GISAPP\LHSB\LHSB\obj\x86\Debug\LHSB.csprojResolveAssemblyReference.cache
+E:\CODE\GISAPP\LHSB\LHSB\obj\x86\Debug\LHSB.MainForm.resources
+E:\CODE\GISAPP\LHSB\LHSB\obj\x86\Debug\LHSB.Properties.Resources.resources
+E:\CODE\GISAPP\LHSB\LHSB\obj\x86\Debug\LHSB.csproj.GenerateResource.Cache

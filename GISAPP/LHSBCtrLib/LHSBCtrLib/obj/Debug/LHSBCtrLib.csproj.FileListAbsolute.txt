@@ -1,0 +1,4 @@
+E:\CODE\GISAPP\LHSBCtrLib\LHSBCtrLib\bin\Debug\LHSBCtrLib.dll
+E:\CODE\GISAPP\LHSBCtrLib\LHSBCtrLib\bin\Debug\LHSBCtrLib.pdb
+E:\CODE\GISAPP\LHSBCtrLib\LHSBCtrLib\obj\Debug\LHSBCtrLib.dll
+E:\CODE\GISAPP\LHSBCtrLib\LHSBCtrLib\obj\Debug\LHSBCtrLib.pdb

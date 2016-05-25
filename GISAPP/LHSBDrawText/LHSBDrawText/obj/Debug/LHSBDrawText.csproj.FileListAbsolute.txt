@@ -1,0 +1,11 @@
+E:\CODE\GISAPP\LHSBDrawText\LHSBDrawText\bin\Debug\LHSBDrawText.exe.config
+E:\CODE\GISAPP\LHSBDrawText\LHSBDrawText\obj\Debug\LHSBDrawText.csprojResolveAssemblyReference.cache
+E:\CODE\GISAPP\LHSBDrawText\LHSBDrawText\obj\Debug\LHSBDrawText.Form1.resources
+E:\CODE\GISAPP\LHSBDrawText\LHSBDrawText\obj\Debug\LHSBDrawText.Properties.Resources.resources
+E:\CODE\GISAPP\LHSBDrawText\LHSBDrawText\obj\Debug\LHSBDrawText.csproj.GenerateResource.Cache
+E:\CODE\GISAPP\LHSBDrawText\LHSBDrawText\bin\Debug\LHSBDrawText.exe
+E:\CODE\GISAPP\LHSBDrawText\LHSBDrawText\bin\Debug\LHSBDrawText.pdb
+E:\CODE\GISAPP\LHSBDrawText\LHSBDrawText\bin\Debug\ESRI.ArcGIS.ADF.dll
+E:\CODE\GISAPP\LHSBDrawText\LHSBDrawText\bin\Debug\ESRI.ArcGIS.ADF.xml
+E:\CODE\GISAPP\LHSBDrawText\LHSBDrawText\obj\Debug\LHSBDrawText.exe
+E:\CODE\GISAPP\LHSBDrawText\LHSBDrawText\obj\Debug\LHSBDrawText.pdb

@@ -1,0 +1,4 @@
+E:\CODE\GISAPP\LHSBCls\LHSBCls\bin\Debug\LHSBCls.dll
+E:\CODE\GISAPP\LHSBCls\LHSBCls\bin\Debug\LHSBCls.pdb
+E:\CODE\GISAPP\LHSBCls\LHSBCls\obj\Debug\LHSBCls.dll
+E:\CODE\GISAPP\LHSBCls\LHSBCls\obj\Debug\LHSBCls.pdb

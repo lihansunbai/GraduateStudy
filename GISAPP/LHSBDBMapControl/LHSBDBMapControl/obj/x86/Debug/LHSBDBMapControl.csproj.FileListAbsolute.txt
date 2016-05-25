@@ -1,0 +1,8 @@
+E:\CODE\GISAPP\LHSBDBMapControl\LHSBDBMapControl\bin\Debug\LHSBDBMapControl.exe
+E:\CODE\GISAPP\LHSBDBMapControl\LHSBDBMapControl\bin\Debug\LHSBDBMapControl.pdb
+E:\CODE\GISAPP\LHSBDBMapControl\LHSBDBMapControl\obj\x86\Debug\LHSBDBMapControl.csprojResolveAssemblyReference.cache
+E:\CODE\GISAPP\LHSBDBMapControl\LHSBDBMapControl\obj\x86\Debug\LHSBDBMapControl.MainForm.resources
+E:\CODE\GISAPP\LHSBDBMapControl\LHSBDBMapControl\obj\x86\Debug\LHSBDBMapControl.Properties.Resources.resources
+E:\CODE\GISAPP\LHSBDBMapControl\LHSBDBMapControl\obj\x86\Debug\LHSBDBMapControl.csproj.GenerateResource.Cache
+E:\CODE\GISAPP\LHSBDBMapControl\LHSBDBMapControl\obj\x86\Debug\LHSBDBMapControl.exe
+E:\CODE\GISAPP\LHSBDBMapControl\LHSBDBMapControl\obj\x86\Debug\LHSBDBMapControl.pdb
