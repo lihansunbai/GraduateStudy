@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<!--
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+-->
+<html>
+    <head>
+        <title>myqq</title>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <link rel="stylesheet" href="lib/jquery-ui.css">
+        <script src="lib/jquery.js"></script>
+        <script src="lib/jquery-ui.js"></script>
+        <script src="src/qqlogin.js"></script>
+        <script src="src/uid.js"></script>
+        <script>
+            $(document).ready(function () {
+                var dlg = new qqLogin();
+                dlg.show();
+            });
+        </script>
+    </head>
+    <body>
+        <div id="context">Showing some word pretend to do some important things!</div>
+
+    </body>
+</html>

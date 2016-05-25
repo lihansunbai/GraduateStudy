@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<!--
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+-->
+<html>
+    <head>
+        <title>test vector</title>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <script src="./js/mouseoperation.js"></script>
+        <script>
+            function test(event) {
+                var mos = new mouse();
+                mos.checkclick(event);
+            }
+        </script>
+        <script>
+
+            var canvas = document.getElementById('myCanvas');
+            var context = canvas.getContext("2d");
+
+            context.beginPath();
+            context.moveTo(100, 150);
+            context.lineTo(450, 50);
+            context.lineWidth = 15;
+            context.stroke();
+        </script>
+    </head>
+    <body>
+        <div id="123" onclick="test(event)" ondblclick="test1(event)" 
+             style="width:100px;height: 100px;border: 1px solid #F00" 
+             >TODO write content</div>
+
+
+
+        <canvas id="myCanvas" width="578" height="200" 
+                style="border: 1px solid #F00"
+                onclick="test(event)"></canvas>
+        <script>
+            var canvas = document.getElementById('myCanvas');
+            var context = canvas.getContext('2d');
+
+            context.beginPath();
+            context.moveTo(100, 150);
+            context.lineTo(450, 50);
+            context.stroke();
+        </script>
+    </body>
+</html>

@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<!--
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+-->
+<html class="fill">
+    <head>
+        <title>将GoogleMap和OpenLayers整合在一起</title>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+        <link rel="stylesheet" href="OpenLayers3/css/ol.css"/>
+        <script type="text/javascript" src="OpenLayers3/build/ol-debug.js"></script>
+        <script type="text/javascript" src="OpenLayers3/resources/jquery.min.js"></script>
+        <script type="text/javascript" src="jslib/uuid.js"></script>
+        <script type="text/javascript" src="jslib/MapControl/MapControl_V2.js"></script>
+        <script type="text/javascript" src="jslib/MapControl/GaoDe.js"></script>
+        <script type="text/javascript" src="jslib/MapControl/QQ.js"></script>
+        <script type="text/javascript" src="jslib/MapControl/MarsWGS84.js"></script>
+        <script type="text/javascript" src="http://ditu.google.cn/maps/api/js?v=3&sensor=false"></script>
+
+        <script type="text/javascript">
+            var mapctl = null;
+            function initmap() {
+                mapctl = new MapControl({
+                    div: 'mapcontrol',
+                    googleEnable: true
+                });
+            }
+
+            $(document).ready(function() {
+                initmap();
+
+                $("#layer_switcher").on("change", function(e) {
+                    mapctl.setBackgroundType($("#layer_switcher").val());
+                });
+            });
+        </script>
+        <style>
+            .fill{
+                margin: 0;
+                padding:0;
+                width:100%;
+                height:100%;
+            }
+        </style>
+    </head>
+    <body class="fill">
+        <select style="" id="layer_switcher">
+            <option value="GAODE">高德</option>
+            <option value="QQ_MAP">QQ地图</option>
+            <option value="QQ_SATELLITE">QQ影像</option>
+            <option value="GOOGLE_MAP">google 地图</option>
+            <option value="GOOGLE_SATELLITE">google 影像</option>
+        </select>
+        <div id="mapcontrol" style="position: relative;width:800px;height:600px;"></div>
+    </body>
+</html>
